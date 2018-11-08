@@ -1,2 +1,6 @@
 *blockadblock*.js
 *remodal*.js
+*rxd.js
+*u.js
+*pop.js
+
