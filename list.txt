@@ -4,7 +4,7 @@
 *u.js
 *pop.js
 *pu.lc.js
-*countdown.js
+*share.js
 *rhfgjld.com*
 *exdynsrv.com*
 *bitests.pro*
