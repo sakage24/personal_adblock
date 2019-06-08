@@ -18,6 +18,13 @@ license.*.js
 serve.popads.net
 advert*.js
 
+// baidu関連
+duapps.com^
+appflyer.com^
+baidu.com^
+estrongs.com^
+graph.facebook.com^
+
 // 例外的に許可
 // コインマイニング
 @@||minergate.com
