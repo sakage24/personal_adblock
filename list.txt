@@ -29,7 +29,9 @@ advert*.js
 @@||dlsite.com
 @@||ci-en.net
 @@||humblebundle.com
+@@||bilibili.com
 // 開発
+@@||10.8.8.1
 @@||kiwi-bird.xyz
 @@||github.com
 @@||atlassian.com
