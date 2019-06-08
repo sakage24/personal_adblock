@@ -1,5 +1,4 @@
 // ブロック
-
 blockadblock*.js
 remodal*.js
 rxd.js
