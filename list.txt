@@ -1,4 +1,5 @@
-@@||www.google.com/adsense
+// ブロック
+
 blockadblock*.js
 remodal*.js
 rxd.js
@@ -17,3 +18,16 @@ script.2823.js
 license.*.js
 serve.popads.net
 advert*.js
+
+// 例外的に許可
+
+@@||www.google.com/adsense
+@@||kiwi-bird.xyz
+@@||github.com
+@@||bitbucket.org
+@@||qiita.com
+@@||teratail.com
+@@||amazon.co.jp
+@@||twitter.com
+@@||conoha.jp
+@@||ann-cate.jp
