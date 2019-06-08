@@ -1,3 +1,5 @@
+// ブロック
+
 blockadblock*.js
 remodal*.js
 rxd.js
@@ -16,3 +18,28 @@ script.2823.js
 license.*.js
 serve.popads.net
 advert*.js
+
+// 例外的に許可
+// コインマイニング
+@@||minergate.com
+// よく使うサイト
+@@||www.google.com/adsense
+@@||amazon.co.jp
+@@||twitter.com
+@@||ann-cate.jp
+@@||dlsite.com
+@@||ci-en.net
+@@||humblebundle.com
+// 開発
+@@||kiwi-bird.xyz
+@@||github.com
+@@||atlassian.com
+@@||bitbucket.org
+@@||qiita.com
+@@||teratail.com
+@@||conoha.jp
+@@||protonvpn.com
+//　金融系
+@@||smbc-card.com
+@@||jcb.co.jp
+@@||paypal.com
