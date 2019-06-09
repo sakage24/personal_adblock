@@ -25,7 +25,14 @@ notification.nicovideo.jp
 flapi.nicovideo.jp
 ##.MarqueeContainer
 ##.BottomContainer
+// baidu関連
+duapps.com^
+appflyer.com^
+baidu.com^
+estrongs.com^
+graph.facebook.com^
 
+// =====================
 // 例外的に許可
 // コインマイニング
 @@||minergate.com
@@ -37,7 +44,9 @@ flapi.nicovideo.jp
 @@||dlsite.com
 @@||ci-en.net
 @@||humblebundle.com
+@@||bilibili.com
 // 開発
+@@||10.8.8.1
 @@||kiwi-bird.xyz
 @@||github.com
 @@||atlassian.com
