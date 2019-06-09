@@ -17,6 +17,14 @@ script.2823.js
 license.*.js
 serve.popads.net
 advert*.js
+// ニコニコ
+ichiba.nicovideo.jp
+nicoad.nicovideo.jp
+staticxx.facebook.com
+notification.nicovideo.jp
+flapi.nicovideo.jp
+##.MarqueeContainer
+##.BottomContainer
 
 // 例外的に許可
 // コインマイニング
