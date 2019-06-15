@@ -59,6 +59,7 @@ mandrillapp.com
 @@||teratail.com
 @@||conoha.jp
 @@||protonvpn.com
+@@||heroku.com
 //　金融系
 @@||smbc-card.com
 @@||jcb.co.jp
