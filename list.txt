@@ -1,3 +1,5 @@
+// AdGuard記法については、下記のリンクを参照 //
+// https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters
 // ブロック
 blockadblock*.js
 remodal*.js
@@ -26,11 +28,13 @@ flapi.nicovideo.jp
 ##.MarqueeContainer
 ##.BottomContainer
 // baidu関連
-duapps.com^
-appflyer.com^
-baidu.com^
-estrongs.com^
-graph.facebook.com^
+duapps.com
+appflyer.com
+baidu.com
+estrongs.com
+graph.facebook.com
+//Thunderbirdのリンク踏むと中継されるドメイン
+mandrillapp.com
 
 // =====================
 // 例外的に許可
