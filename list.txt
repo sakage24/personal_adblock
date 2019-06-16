@@ -49,6 +49,8 @@ mandrillapp.com
 @@||ci-en.net
 @@||humblebundle.com
 @@||bilibili.com
+@@||dropbox.com
+@@||dropboxapi.com
 // 開発
 @@||10.8.8.1
 @@||kiwi-bird.xyz
