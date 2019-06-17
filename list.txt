@@ -43,6 +43,7 @@ mandrillapp.com
 // よく使うサイト
 @@||www.google.com/adsense
 @@||amazon.co.jp
+@@||okidokiland.com
 @@||twitter.com
 @@||ann-cate.jp
 @@||dlsite.com
