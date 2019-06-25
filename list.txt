@@ -54,6 +54,7 @@ mandrillapp.com
 @@||dropbox.com
 @@||dropboxapi.com
 @@||dropboxstatic.com
+@@||stardock.com
 // 開発
 @@||10.8.8.1
 @@||kiwi-bird.xyz
