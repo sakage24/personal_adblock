@@ -42,7 +42,7 @@ mandrillapp.com
 @@||minergate.com
 // よく使うサイト
 @@||www.google.com/adsense
-@@||amazon.co.jp
+@@||www.amazon.co.jp
 @@||okidokiland.com
 @@||twitter.com
 @@||ann-cate.jp
