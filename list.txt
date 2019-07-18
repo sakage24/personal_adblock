@@ -72,3 +72,5 @@ mandrillapp.com
 @@||smbc-card.com
 @@||jcb.co.jp
 @@||paypal.com
+// ホームネットワーク
+@@||192.168.*
