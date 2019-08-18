@@ -22,7 +22,6 @@ advert*.js
 // ニコニコ
 ichiba.nicovideo.jp
 nicoad.nicovideo.jp
-staticxx.facebook.com
 notification.nicovideo.jp
 flapi.nicovideo.jp
 ##.MarqueeContainer
@@ -32,20 +31,22 @@ duapps.com
 appflyer.com
 baidu.com
 estrongs.com
-graph.facebook.com
 //Thunderbirdのリンク踏むと中継されるドメイン
 mandrillapp.com
 // TOKYO MOTION
 aaacompany.net
 mttag.com
+// Facebook
+graph.facebook.com
+staticxx.facebook.com
+// MicroSoft
+graph.microsoft.com
 // =====================
 // 例外的に許可
 // コインマイニング
 @@||minergate.com
 // よく使うサイト
-@@||www.google.com
 @@||amazon.co.jp
-@@||okidokiland.com
 @@||twitter.com
 @@||ann-cate.jp
 @@||dlsite.com
@@ -53,13 +54,12 @@ mttag.com
 @@||humblebundle.com
 @@||bilibili.com
 @@||a8.net
-@@||analytics.google.com
 @@||conoha.jp
-// Dropbox
-@@||dropbox*.com
 @@||stardock.com
 @@||cyberduck.io
 @@||mountainduck.io
+// Dropbox
+@@||dropbox*.com
 // 開発
 @@||10.8.8.*
 @@||192.168.1.*
@@ -75,6 +75,9 @@ mttag.com
 //　金融系
 @@||smbc-card.com
 @@||jcb.co.jp
+@@||okidokiland.com
 @@||paypal.com
-@@||app.freewallet.org
+@@||freewallet.org
 @@||researchnow.com
+// Google
+@@||google.com
