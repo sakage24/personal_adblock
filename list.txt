@@ -8,10 +8,10 @@ u.js
 pop.js
 pu.lc.js
 share.js
-rhfgjld.com*
-exdynsrv.com*
+rhfgjld.com
+exdynsrv.com
 bitests.pro
-witalfieldt.com*
+witalfieldt.com
 ados.js
 popunder1.js
 script.3824.js
@@ -43,38 +43,38 @@ mttag.com
 // コインマイニング
 @@||minergate.com
 // よく使うサイト
-@@||www.google.com/adsense
-@@||*amazon.co.jp
-@@||*okidokiland.com
-@@||*twitter.com
-@@||*ann-cate.jp
-@@||*dlsite.com
-@@||*ci-en.net
-@@||*humblebundle.com
-@@||*bilibili.com
-@@||*a8.net
+@@||www.google.com
+@@||amazon.co.jp
+@@||okidokiland.com
+@@||twitter.com
+@@||ann-cate.jp
+@@||dlsite.com
+@@||ci-en.net
+@@||humblebundle.com
+@@||bilibili.com
+@@||a8.net
 @@||analytics.google.com
-@@||*conoha.jp
+@@||conoha.jp
 // Dropbox
-@@||dropbox.com
-@@||dropboxapi.com
-@@||dropboxstatic.com
+@@||dropbox*.com
 @@||stardock.com
 @@||cyberduck.io
 @@||mountainduck.io
 // 開発
 @@||10.8.8.*
 @@||192.168.1.*
-@@||*kiwi-bird.xyz
+@@||kiwi-bird.xyz
 @@||github.com
 @@||atlassian.com
 @@||bitbucket.org
 @@||qiita.com
 @@||teratail.com
-@@||*conoha.jp
+@@||conoha.jp
 @@||protonvpn.com
 @@||heroku.com
 //　金融系
 @@||smbc-card.com
 @@||jcb.co.jp
 @@||paypal.com
+@@||app.freewallet.org
+@@||researchnow.com
