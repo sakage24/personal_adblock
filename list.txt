@@ -35,6 +35,8 @@ estrongs.com
 graph.facebook.com
 //Thunderbirdのリンク踏むと中継されるドメイン
 mandrillapp.com
+// TOKYO MOTION
+aaacompany.net
 
 // =====================
 // 例外的に許可
