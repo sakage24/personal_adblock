@@ -44,14 +44,17 @@ mttag.com
 @@||minergate.com
 // よく使うサイト
 @@||www.google.com/adsense
-@@||www.amazon.co.jp
-@@||okidokiland.com
-@@||twitter.com
-@@||ann-cate.jp
-@@||dlsite.com
-@@||ci-en.net
-@@||humblebundle.com
-@@||bilibili.com
+@@||*amazon.co.jp
+@@||*okidokiland.com
+@@||*twitter.com
+@@||*ann-cate.jp
+@@||*dlsite.com
+@@||*ci-en.net
+@@||*humblebundle.com
+@@||*bilibili.com
+@@||*a8.net
+@@||analytics.google.com
+@@||*conoha.jp
 // Dropbox
 @@||dropbox.com
 @@||dropboxapi.com
@@ -60,19 +63,18 @@ mttag.com
 @@||cyberduck.io
 @@||mountainduck.io
 // 開発
-@@||10.8.8.1
-@@||kiwi-bird.xyz
+@@||10.8.8.*
+@@||192.168.1.*
+@@||*kiwi-bird.xyz
 @@||github.com
 @@||atlassian.com
 @@||bitbucket.org
 @@||qiita.com
 @@||teratail.com
-@@||conoha.jp
+@@||*conoha.jp
 @@||protonvpn.com
 @@||heroku.com
 //　金融系
 @@||smbc-card.com
 @@||jcb.co.jp
 @@||paypal.com
-// ホームネットワーク
-@@||192.168.*
