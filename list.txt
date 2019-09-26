@@ -53,11 +53,14 @@ graph.microsoft.com
 @@||ci-en.net
 @@||humblebundle.com
 @@||bilibili.com
-@@||a8.net
 @@||conoha.jp
 @@||stardock.com
 @@||cyberduck.io
 @@||mountainduck.io
+// 広告関連
+@@||a8.net
+@@||maist.jp
+@@||manage.juicyads.com
 // Dropbox
 @@||dropbox*.com
 // 開発
