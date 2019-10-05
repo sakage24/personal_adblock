@@ -87,3 +87,4 @@ graph.microsoft.com
 @@||google.com
 // ポイントサイト
 @@||nandokun.com
+@@||infoq.jp
