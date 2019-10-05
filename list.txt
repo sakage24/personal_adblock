@@ -26,8 +26,6 @@ notification.nicovideo.jp
 flapi.nicovideo.jp
 ##.MarqueeContainer
 ##.BottomContainer
-// infoq.jpのオーバレイ削除用
-###x0e3
 // baidu関連
 duapps.com
 appflyer.com
@@ -90,3 +88,5 @@ graph.microsoft.com
 // ポイントサイト
 @@||nandokun.com
 @@||infoq.jp
+question-hiroba.com##script
+question-hiroba.com##.ad-area*
