@@ -26,6 +26,8 @@ notification.nicovideo.jp
 flapi.nicovideo.jp
 ##.MarqueeContainer
 ##.BottomContainer
+// infoq.jpのオーバレイ削除用
+###x0e3
 // baidu関連
 duapps.com
 appflyer.com
