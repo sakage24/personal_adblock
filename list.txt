@@ -43,6 +43,8 @@ staticxx.facebook.com
 graph.microsoft.com
 // =====================
 // 例外的に許可
+// yahoo
+@@||mail.yahoo.co.jp
 // コインマイニング
 @@||minergate.com
 // よく使うサイト
@@ -86,7 +88,4 @@ graph.microsoft.com
 // Google
 @@||google.com
 // ポイントサイト
-@@||nandokun.com
 @@||infoq.jp
-question-hiroba.com##script
-question-hiroba.com##.ad-area*
