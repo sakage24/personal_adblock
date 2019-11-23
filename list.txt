@@ -49,6 +49,7 @@ graph.microsoft.com
 @@||minergate.com
 // よく使うサイト
 @@||amazon.co.jp
+@@||rakuten.co.jp
 @@||twitter.com
 @@||ann-cate.jp
 @@||dlsite.com
@@ -62,7 +63,7 @@ graph.microsoft.com
 // 広告関連
 @@||a8.net
 @@||maist.jp
-@@||manage.juicyads.com
+@@||juicyads.com
 // Dropbox
 @@||dropbox*.com
 // 開発
@@ -85,6 +86,7 @@ graph.microsoft.com
 @@||paypal.com
 @@||freewallet.org
 @@||researchnow.com
+@@||rakuten-card.co.jp
 // Google
 @@||google.com
 // ポイントサイト
