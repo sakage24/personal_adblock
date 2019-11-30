@@ -51,18 +51,15 @@ graph.microsoft.com
 @@||amazon.co.jp
 @@||rakuten.co.jp
 @@||twitter.com
-@@||ann-cate.jp
 @@||dlsite.com
 @@||ci-en.net
 @@||humblebundle.com
 @@||bilibili.com
-@@||conoha.jp
 @@||stardock.com
 @@||cyberduck.io
 @@||mountainduck.io
 // 広告関連
 @@||a8.net
-@@||maist.jp
 @@||juicyads.com
 // Dropbox
 @@||dropbox*.com
