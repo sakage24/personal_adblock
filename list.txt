@@ -79,6 +79,7 @@ graph.microsoft.com
 @@||conoha.jp
 @@||protonvpn.com
 @@||heroku.com
+@@||photo-ac.com/assets/js^
 //　金融系
 @@||smbc-card.com
 @@||jcb.co.jp
