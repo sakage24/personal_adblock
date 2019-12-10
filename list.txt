@@ -60,7 +60,6 @@ graph.microsoft.com
 @@||mountainduck.io
 // 広告関連
 @@||a8.net
-@@||juicyads.com
 // Dropbox
 @@||dropbox*.com
 // 開発
