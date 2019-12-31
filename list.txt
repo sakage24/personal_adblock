@@ -67,6 +67,8 @@ graph.microsoft.com
 @@||192.168.1.*
 @@||kiwi-bird.xyz
 @@||kiwibird.tokyo
+@@||opskiwi.work
+@@||operationkiwi.work
 @@||github.com
 @@||atlassian.com
 @@||bitbucket.org
