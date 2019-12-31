@@ -90,3 +90,6 @@ graph.microsoft.com
 @@||google.com
 // ポイントサイト
 @@||infoq.jp
+// MineCraft
+@@||mojang.com
+@@||minecraft.net
