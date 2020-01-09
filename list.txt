@@ -1,6 +1,7 @@
 // AdGuard記法については、下記のリンクを参照 //
 // https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters
-// ブロック
+
+// ===== 拒否 ===== //
 blockadblock*.js
 remodal*.js
 rxd.js
@@ -19,6 +20,7 @@ script.2823.js
 license.*.js
 serve.popads.net
 advert*.js
+
 // ニコニコ
 ichiba.nicovideo.jp
 nicoad.nicovideo.jp
@@ -26,27 +28,46 @@ notification.nicovideo.jp
 flapi.nicovideo.jp
 ##.MarqueeContainer
 ##.BottomContainer
+
 // baidu関連
 duapps.com
 appflyer.com
 baidu.com
 estrongs.com
+
 //Thunderbirdのリンク踏むと中継されるドメイン
 mandrillapp.com
+
 // TOKYO MOTION
 aaacompany.net
 mttag.com
+
 // Facebook
 graph.facebook.com
 staticxx.facebook.com
+
 // MicroSoft
 graph.microsoft.com
-// =====================
-// 例外的に許可
+
+// LINE
+adjust.com
+naver.jp
+d.line-scdn.net
+appdriver.jp
+doubleclick.net
+ytimg.com
+
+// CHINA系??
+dbankcloud.cn
+
+// ====== 例外的に許可 ===== //
+
 // yahoo
 @@||mail.yahoo.co.jp
+
 // コインマイニング
 @@||minergate.com
+
 // よく使うサイト
 @@||amazon.co.jp
 @@||rakuten.co.jp
@@ -58,10 +79,12 @@ graph.microsoft.com
 @@||stardock.com
 @@||cyberduck.io
 @@||mountainduck.io
+
 // 広告関連
 @@||a8.net
 // Dropbox
 @@||dropbox*.com
+
 // 開発
 @@||10.8.8.*
 @@||192.168.1.*
@@ -78,6 +101,7 @@ graph.microsoft.com
 @@||protonvpn.com
 @@||heroku.com
 @@||photo-ac.com/assets/js^
+
 //　金融系
 @@||smbc-card.com
 @@||jcb.co.jp
@@ -86,10 +110,16 @@ graph.microsoft.com
 @@||freewallet.org
 @@||researchnow.com
 @@||rakuten-card.co.jp
+
 // Google
 @@||google.com
+
 // ポイントサイト
 @@||infoq.jp
+
 // MineCraft
 @@||mojang.com
 @@||minecraft.net
+
+// LINE
+@@||ch.freecoin.line.naver.jp
