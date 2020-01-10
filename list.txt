@@ -52,7 +52,6 @@ graph.microsoft.com
 // LINE
 adjust.com
 naver.jp
-d.line-scdn.net
 appdriver.jp
 doubleclick.net
 
