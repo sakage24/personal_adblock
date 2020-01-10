@@ -55,7 +55,6 @@ naver.jp
 d.line-scdn.net
 appdriver.jp
 doubleclick.net
-ytimg.com
 
 // CHINA系??
 dbankcloud.cn
