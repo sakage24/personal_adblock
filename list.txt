@@ -1,72 +1,74 @@
-// AdGuard記法については、下記のリンクを参照 //
-// https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters
+!+ NOT_PLATFORM()
+! AdGuard記法については、下記のリンクを参照 !
+! https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters
 
-// ===== 拒否 ===== //
-blockadblock*.js
-remodal*.js
-rxd.js
-u.js
-pop.js
-pu.lc.js
-share.js
-rhfgjld.com
-exdynsrv.com
-bitests.pro
-witalfieldt.com
-ados.js
-popunder1.js
-script.3824.js
-script.2823.js
-license.*.js
-serve.popads.net
-advert*.js
+! ===== 拒否 ===== !
+||blockadblock*.js
+||remodal*.js
+||rxd.js
+||u.js
+||pop.js
+||pu.lc.js
+||share.js
+||rhfgjld.com
+||exdynsrv.com
+||bitests.pro
+||witalfieldt.com
+||ados.js
+||popunder1.js
+||script.3824.js
+||script.2823.js
+||license.*.js
+||serve.popads.net
+||advert*.js
 
-// ニコニコ
-ichiba.nicovideo.jp
-nicoad.nicovideo.jp
-notification.nicovideo.jp
-flapi.nicovideo.jp
+! ニコニコ
+||ichiba.nicovideo.jp
+||nicoad.nicovideo.jp
+||notification.nicovideo.jp
+||api.nicovideo.jp
 ##.MarqueeContainer
 ##.BottomContainer
 
-// baidu関連
-duapps.com
-appflyer.com
-baidu.com
-estrongs.com
+! baidu関連
+||duapps.com
+||appflyer.com
+||baidu.com
+||estrongs.com
 
-//Thunderbirdのリンク踏むと中継されるドメイン
-mandrillapp.com
+! Thunderbirdのリンク踏むと中継されるドメイン
+||mandrillapp.com
 
-// TOKYO MOTION
-aaacompany.net
-mttag.com
+! TOKYO MOTION
+||aaacompany.net
+||mttag.com
 
-// Facebook
-graph.facebook.com
-staticxx.facebook.com
+! google系
+||doubleclick.net
 
-// MicroSoft
-graph.microsoft.com
+! Facebook
+||graph.facebook.com
+||staticxx.facebook.com
 
-// LINE
-adjust.com
-naver.jp
-appdriver.jp
-doubleclick.net
+! MicroSoft
+||graph.microsoft.com
 
-// CHINA系??
-dbankcloud.cn
+! LINE
+||adjust.com
+||naver.jp
+||appdriver.jp
+! CHINA系??
+||dbankcloud.cn
 
-// ====== 例外的に許可 ===== //
+! ====== 例外的に許可 ===== !
 
-// yahoo
+! yahoo
 @@||mail.yahoo.co.jp
 
-// コインマイニング
+! コインマイニング
 @@||minergate.com
 
-// よく使うサイト
+! よく使うサイト
 @@||amazon.co.jp
 @@||rakuten.co.jp
 @@||twitter.com
@@ -77,13 +79,9 @@ dbankcloud.cn
 @@||stardock.com
 @@||cyberduck.io
 @@||mountainduck.io
+@@||id.g2a.com
 
-// 広告関連
-@@||a8.net
-// Dropbox
-@@||dropbox*.com
-
-// 開発
+! 開発
 @@||10.8.8.*
 @@||192.168.1.*
 @@||kiwi-bird.xyz
@@ -100,7 +98,10 @@ dbankcloud.cn
 @@||heroku.com
 @@||photo-ac.com/assets/js^
 
-//　金融系
+! Dropbox
+@@||dropbox*.com
+
+! 金融系
 @@||smbc-card.com
 @@||jcb.co.jp
 @@||okidokiland.com
@@ -109,15 +110,16 @@ dbankcloud.cn
 @@||researchnow.com
 @@||rakuten-card.co.jp
 
-// Google
+! Google
 @@||google.com
 
-// ポイントサイト
+! ポイントサイト
 @@||infoq.jp
+@@||a8.net
 
-// MineCraft
+! MineCraft
 @@||mojang.com
 @@||minecraft.net
 
-// LINE
+! LINE
 @@||ch.freecoin.line.naver.jp
