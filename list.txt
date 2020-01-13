@@ -34,7 +34,6 @@
 ||mobadme.jp^
 ||impact-ad.jp^
 ||d2-apps.net^
-||windows.net^
 ||adingo.jp^
 ||contentsfeed.com^
 
