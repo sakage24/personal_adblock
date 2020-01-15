@@ -45,12 +45,6 @@
 ##.MarqueeContainer^
 ##.BottomContainer^
 
-! baidu関連
-||duapps.com^
-||appflyer.com^
-||baidu.com^
-||estrongs.com^
-
 ! Thunderbirdのリンク踏むと中継されるドメイン
 ||mandrillapp.com^
 
@@ -67,15 +61,20 @@
 ||graph.facebook.com^
 ||staticxx.facebook.com^
 
-! MicroSoft
+! microsoft
 ||graph.microsoft.com^
 
 ! LINE
 ||adjust.com^
 ||naver.jp^
 ||appdriver.jp^
-! CHINA系??
+
+! China系
 ||dbankcloud.cn^
+||duapps.com^
+||appflyer.com^
+||baidu.com^
+||estrongs.com^
 
 ! ====== 例外的に許可 ===== !
 
@@ -125,7 +124,6 @@
 @@||paypal.com^
 @@||freewallet.org^
 @@||researchnow.com^
-@@||rakuten-card.co.jp^
 
 ! Google
 @@||google.com^
@@ -140,3 +138,7 @@
 
 ! LINE
 @@||ch.freecoin.line.naver.jp^
+
+! 楽天
+@@||rakuten-card.co.jp^
+@@||adcolony.com^$app=jp.co.rakuten.slide
