@@ -36,6 +36,7 @@
 ||d2-apps.net^
 ||adingo.jp^
 ||contentsfeed.com^
+||beaconbank.jp^
 
 ! ニコニコ
 ||ichiba.nicovideo.jp^
@@ -56,6 +57,7 @@
 ||doubleclick.net^
 ||googlesyndication.com^
 ||google-analytics.com^
+||googletagmanager.com^
 
 ! Facebook
 ||graph.facebook.com^
