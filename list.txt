@@ -43,7 +43,7 @@
 ||nicoad.nicovideo.jp^
 ||notification.nicovideo.jp^
 ||api.nicovideo.jp^
-##.MarqueeContainer^
+nicovideo.jp##div.MarqueeContainer
 ##.BottomContainer^
 
 ! Thunderbirdのリンク踏むと中継されるドメイン
