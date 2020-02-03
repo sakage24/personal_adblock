@@ -43,8 +43,8 @@
 ||nicoad.nicovideo.jp^
 ||notification.nicovideo.jp^
 ||api.nicovideo.jp^
-nicovideo.jp##div.MarqueeContainer
-##.BottomContainer^
+nicovideo.jp##.MarqueeContainer
+nicovideo.jp##.BottomContainer
 
 ! Thunderbirdのリンク踏むと中継されるドメイン
 ||mandrillapp.com^
@@ -117,7 +117,6 @@ nicovideo.jp##div.MarqueeContainer
 @@||dropbox*.com^
 
 ! 金融系
-@@||smbc-card.com^
 @@||jcb.co.jp^
 @@||okidokiland.com^
 @@||paypal.com^
@@ -130,6 +129,7 @@ nicovideo.jp##div.MarqueeContainer
 ! ポイントサイト
 @@||infoq.jp^
 @@||a8.net^
+@@||cmnw.jp^
 
 ! MineCraft
 @@||mojang.com^
