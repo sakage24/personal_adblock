@@ -116,6 +116,9 @@ nicovideo.jp##.BottomContainer
 ! Dropbox
 @@||dropbox*.com^
 
+! BackBraze
+@@||backblaze.com^
+
 ! 金融系
 @@||jcb.co.jp^
 @@||okidokiland.com^
