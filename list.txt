@@ -99,6 +99,7 @@ nicovideo.jp##.BottomContainer
 @@||cyberduck.io^
 @@||mountainduck.io^
 @@||id.g2a.com^
+@@||unext.jp^
 
 ! 開発
 @@||10.8.8.*^
