@@ -89,7 +89,6 @@ nicovideo.jp##.BottomContainer
 
 ! よく使うサイト
 @@||amazon.co.jp^
-@@||rakuten.co.jp^
 @@||twitter.com^
 @@||dlsite.com^
 @@||ci-en.net^
@@ -144,5 +143,6 @@ nicovideo.jp##.BottomContainer
 @@||ch.freecoin.line.naver.jp^
 
 ! 楽天
+@@||rakuten.co.jp^
 @@||rakuten-card.co.jp^
 @@||adcolony.com^
