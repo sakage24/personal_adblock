@@ -90,6 +90,7 @@ nicovideo.jp##.BottomContainer
 ! よく使うサイト
 @@||amazon.co.jp^
 @@||twitter.com^
+@@||play.dlsite.com^
 @@||dlsite.com^
 @@||ci-en.net^
 @@||humblebundle.com^
