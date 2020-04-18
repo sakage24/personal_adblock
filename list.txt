@@ -62,6 +62,7 @@ nicovideo.jp##.BottomContainer
 
 ! Facebook
 ||graph.facebook.com^
+||mqtt-mini.facebook.com^
 ||staticxx.facebook.com^
 
 ! microsoft
