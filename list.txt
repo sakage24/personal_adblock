@@ -63,6 +63,7 @@ nicovideo.jp##.BottomContainer
 
 ! Facebook
 ||graph.facebook.com^
+||mqtt-mini.facebook.com^
 ||staticxx.facebook.com^
 
 ! microsoft
@@ -90,8 +91,8 @@ nicovideo.jp##.BottomContainer
 
 ! よく使うサイト
 @@||amazon.co.jp^
-@@||rakuten.co.jp^
 @@||twitter.com^
+@@||play.dlsite.com^
 @@||dlsite.com^
 @@||ci-en.net^
 @@||humblebundle.com^
@@ -100,6 +101,7 @@ nicovideo.jp##.BottomContainer
 @@||cyberduck.io^
 @@||mountainduck.io^
 @@||id.g2a.com^
+@@||unext.jp^
 
 ! 開発
 @@||10.8.8.*^
@@ -144,5 +146,6 @@ nicovideo.jp##.BottomContainer
 @@||ch.freecoin.line.naver.jp^
 
 ! 楽天
+@@||rakuten.co.jp^
 @@||rakuten-card.co.jp^
 @@||adcolony.com^
