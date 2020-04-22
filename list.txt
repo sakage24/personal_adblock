@@ -22,6 +22,7 @@
 ||serve.popads.net^
 ||advert*.js^
 ||amazon-adsystem.com^
+||xfreeservice.com^
 
 ! 楽天系アプリ内広告
 ||scorecardresearch.com^
