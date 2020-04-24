@@ -137,6 +137,7 @@ nicovideo.jp##.BottomContainer
 @@||infoq.jp^
 @@||a8.net^
 @@||cmnw.jp^
+@@||gaingame.point.gmo.jp^
 
 ! MineCraft
 @@||mojang.com^
