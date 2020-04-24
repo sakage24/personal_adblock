@@ -144,6 +144,7 @@ nicovideo.jp##.BottomContainer
 
 ! LINE
 @@||ch.freecoin.line.naver.jp^
+@@||ec.line.me^
 
 ! 楽天
 @@||rakuten.co.jp^
