@@ -45,8 +45,8 @@
 ||nicoad.nicovideo.jp^
 ||notification.nicovideo.jp^
 ||api.nicovideo.jp^
-nicovideo.jp##.MarqueeContainer
-nicovideo.jp##.BottomContainer
+||nicovideo.jp##.MarqueeContainer^
+||nicovideo.jp##.BottomContainer^
 
 ! Thunderbirdのリンク踏むと中継されるドメイン
 ||mandrillapp.com^
@@ -130,6 +130,10 @@ nicovideo.jp##.BottomContainer
 @@||paypal.com^
 @@||freewallet.org^
 @@||researchnow.com^
+@@||safecharge.com^
+
+! FX
+@@||xmtrading.com^
 
 ! Google
 @@||google.com^
@@ -138,6 +142,7 @@ nicovideo.jp##.BottomContainer
 @@||infoq.jp^
 @@||a8.net^
 @@||cmnw.jp^
+@@||gaingame.point.gmo.jp^
 
 ! MineCraft
 @@||mojang.com^
@@ -145,6 +150,7 @@ nicovideo.jp##.BottomContainer
 
 ! LINE
 @@||ch.freecoin.line.naver.jp^
+@@||ec.line.me^
 
 ! 楽天
 @@||rakuten.co.jp^
