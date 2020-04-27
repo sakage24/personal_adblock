@@ -129,6 +129,10 @@ nicovideo.jp##.BottomContainer
 @@||paypal.com^
 @@||freewallet.org^
 @@||researchnow.com^
+@@||safecharge.com^
+
+! FX
+@@||xmtrading.com^
 
 ! Google
 @@||google.com^
