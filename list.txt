@@ -157,3 +157,4 @@
 @@||rakuten.co.jp^
 @@||rakuten-card.co.jp^
 @@||adcolony.com^
+@@||fril.jp^
