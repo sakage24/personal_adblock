@@ -104,6 +104,7 @@
 @@||id.g2a.com^
 @@||unext.jp^
 @@||iosys.co.jp^
+@@||scp-world.space^
 
 ! 開発
 @@||10.8.8.*^
