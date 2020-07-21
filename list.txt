@@ -45,8 +45,8 @@
 ||nicoad.nicovideo.jp^
 ||notification.nicovideo.jp^
 ||api.nicovideo.jp^
-||nicovideo.jp##.MarqueeContainer^
-||nicovideo.jp##.BottomContainer^
+||flapi.nicovideo.jp^
+@@||nicovideo.jp/v*/user/followees^
 
 ! Thunderbirdのリンク踏むと中継されるドメイン
 ||mandrillapp.com^
