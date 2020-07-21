@@ -105,6 +105,7 @@
 @@||unext.jp^
 @@||iosys.co.jp^
 @@||scp-world.space^
+@@||rs-online,com^
 
 ! 開発
 @@||10.8.8.*^
@@ -119,6 +120,8 @@
 @@||protonvpn.com^
 @@||heroku.com^
 @@||photo-ac.com/assets/js^
+@@||emmet.io^
+@@||point.gmo.jp^
 
 ! Dropbox
 @@||dropbox*.com^
