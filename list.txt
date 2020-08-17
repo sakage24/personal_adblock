@@ -106,6 +106,7 @@
 @@||iosys.co.jp^
 @@||scp-world.space^
 @@||rs-online,com^
+@@||gihyo.jp^
 
 ! 開発
 @@||10.8.8.*^
