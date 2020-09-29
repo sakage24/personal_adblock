@@ -81,6 +81,10 @@
 ||appflyer.com^
 ||baidu.com^
 ||estrongs.com^
+!! Ali Express
+||abtest.alibaba.com^
+||taobao.com^
+||applog.uc.cn^
 
 ! ====== 例外的に許可 ===== !
 
