@@ -23,6 +23,7 @@
 ||advert*.js^
 ||amazon-adsystem.com^
 ||xfreeservice.com^
+||cxpublic.com^
 
 ! 楽天系アプリ内広告
 ||scorecardresearch.com^
