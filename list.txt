@@ -24,6 +24,7 @@
 ||amazon-adsystem.com^
 ||xfreeservice.com^
 ||cxpublic.com^
+||note.com^
 
 ! 楽天系アプリ内広告
 ||scorecardresearch.com^
