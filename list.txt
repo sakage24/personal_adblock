@@ -46,8 +46,8 @@
 ||ichiba.nicovideo.jp^
 ||nicoad.nicovideo.jp^
 ||notification.nicovideo.jp^
-||api.nicovideo.jp^
 ||flapi.nicovideo.jp^
+@@||public.api.nicovideo.jp^
 @@||nicovideo.jp/v*/user/followees^
 
 ! Thunderbirdのリンク踏むと中継されるドメイン
