@@ -24,7 +24,6 @@
 ||amazon-adsystem.com^
 ||xfreeservice.com^
 ||cxpublic.com^
-||note.com^
 
 ! 楽天系アプリ内広告
 ||scorecardresearch.com^
@@ -130,6 +129,7 @@
 @@||photo-ac.com/assets/js^
 @@||emmet.io^
 @@||point.gmo.jp^
+@@||note.com^
 
 ! Dropbox
 @@||dropbox*.com^
