@@ -47,8 +47,6 @@
 ||nicoad.nicovideo.jp^
 ||notification.nicovideo.jp^
 ||flapi.nicovideo.jp^
-@@||public.api.nicovideo.jp^
-@@||nicovideo.jp/v*/user/followees^
 
 ! Thunderbirdのリンク踏むと中継されるドメイン
 ||mandrillapp.com^
@@ -85,7 +83,6 @@
 ||estrongs.com^
 !! Ali Express
 ||abtest.alibaba.com^
-||taobao.com^
 ||applog.uc.cn^
 
 ! ====== 例外的に許可 ===== !
@@ -114,6 +111,7 @@
 @@||rs-online,com^
 @@||gihyo.jp^
 @@||aliexpress.com^
+@@||taobao.com^
 
 ! 開発
 @@||10.8.8.*^
@@ -131,6 +129,10 @@
 @@||emmet.io^
 @@||point.gmo.jp^
 @@||note.com^
+
+! 動画サイト
+@@||public.api.nicovideo.jp^
+@@||nicovideo.jp/v*/user/followees^
 
 ! Dropbox
 @@||dropbox*.com^
