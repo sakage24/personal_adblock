@@ -3,6 +3,7 @@
 ! https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters
 
 ! ===== 拒否 ===== !
+||appboy.com^
 ||blockadblock*.js^
 ||remodal*.js^
 ||rxd.js^
