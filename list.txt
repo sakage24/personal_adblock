@@ -63,6 +63,9 @@
 ||google-analytics.com^
 ||googletagmanager.com^
 
+!! Youtube
+youtube.com##ytd-companion-slot-renderer
+
 ! Facebook
 ||graph.facebook.com^
 ||mqtt-mini.facebook.com^
