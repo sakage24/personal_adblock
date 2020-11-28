@@ -47,7 +47,6 @@
 ||ichiba.nicovideo.jp^
 ||nicoad.nicovideo.jp^
 ||notification.nicovideo.jp^
-||flapi.nicovideo.jp^
 
 ! Thunderbirdのリンク踏むと中継されるドメイン
 ||mandrillapp.com^
