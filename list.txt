@@ -47,6 +47,7 @@
 ||ichiba.nicovideo.jp^
 ||nicoad.nicovideo.jp^
 ||notification.nicovideo.jp^
+nicovideo.jp##.MarqueeContainer
 
 ! Thunderbirdのリンク踏むと中継されるドメイン
 ||mandrillapp.com^
