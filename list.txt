@@ -26,6 +26,7 @@
 ||xfreeservice.com^
 ||cxpublic.com^
 ||marketingcloudapis.com^
+hentai-sharing.net##.e3lan
 
 ! 楽天系アプリ内広告
 ||scorecardresearch.com^
