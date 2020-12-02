@@ -87,6 +87,7 @@ youtube.com##ytd-companion-slot-renderer
 ||appflyer.com^
 ||baidu.com^
 ||estrongs.com^
+||taobao.com^
 !! Ali Express
 ||abtest.alibaba.com^
 ||applog.uc.cn^
@@ -95,6 +96,7 @@ youtube.com##ytd-companion-slot-renderer
 
 ! yahoo
 @@||mail.yahoo.co.jp^
+@@||yahooapis.jp^
 
 ! コインマイニング
 @@||minergate.com^
