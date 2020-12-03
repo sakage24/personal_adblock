@@ -43,6 +43,7 @@ hentai-sharing.net##.e3lan
 ||adingo.jp^
 ||contentsfeed.com^
 ||beaconbank.jp^
+||graph.instagram.com^
 
 ! ニコニコ
 ||ichiba.nicovideo.jp^
@@ -88,7 +89,6 @@ youtube.com##ytd-companion-slot-renderer
 ||baidu.com^
 ||estrongs.com^
 ||taobao.com^
-!! Ali Express
 ||abtest.alibaba.com^
 ||applog.uc.cn^
 
