@@ -27,6 +27,9 @@
 ||cxpublic.com^
 ||marketingcloudapis.com^
 ||jword.jp^
+||gostoneshards.ru^
+
+! 一部id, classのみ非表示
 hentai-sharing.net##.e3lan
 
 ! 楽天系アプリ内広告
