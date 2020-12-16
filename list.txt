@@ -31,6 +31,11 @@
 
 ! 一部id, classのみ非表示
 hentai-sharing.net##.e3lan
+xhamster.com##.cams-overlay
+xhamster.com##.wio-aplayer
+xhamster.com##.wio-acams-widget
+xhamster.com##.wio-aspa
+xhamster.com##.wio-aspb
 
 ! 楽天系アプリ内広告
 ||scorecardresearch.com^
