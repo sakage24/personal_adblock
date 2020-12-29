@@ -28,6 +28,7 @@
 ||marketingcloudapis.com^
 ||jword.jp^
 ||gostoneshards.ru^
+||adnxs.com^
 
 ! 一部id, classのみ非表示
 hentai-sharing.net##.e3lan
@@ -93,6 +94,8 @@ youtube.com##ytd-companion-slot-renderer
 
 ! China系
 ||dbankcloud.cn^
+||dbankcloud.com^
+||dbankcloud.asia^
 ||duapps.com^
 ||appflyer.com^
 ||baidu.com^
