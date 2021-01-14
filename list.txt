@@ -36,6 +36,7 @@ xhamster.com##.wio-aplayer
 xhamster.com##.wio-acams-widget
 xhamster.com##.wio-aspa
 xhamster.com##.wio-aspb
+yahoo.co.jp###*ad_frame
 
 ! 楽天系アプリ内広告
 ||scorecardresearch.com^
