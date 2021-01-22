@@ -29,6 +29,7 @@
 ||jword.jp^
 ||gostoneshards.ru^
 ||adnxs.com^
+||karte.io^
 
 ! 一部id, classのみ非表示
 hentai-sharing.net##.e3lan
