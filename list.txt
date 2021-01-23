@@ -130,7 +130,7 @@ youtube.com##ytd-companion-slot-renderer
 @@||unext.jp^
 @@||iosys.co.jp^
 @@||scp-world.space^
-@@||rs-online,com^
+@@||rs-online.com^
 @@||gihyo.jp^
 @@||aliexpress.com^
 @@||taobao.com^
