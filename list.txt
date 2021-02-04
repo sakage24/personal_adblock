@@ -33,6 +33,7 @@
 
 ! 一部id, classのみ非表示
 hentai-sharing.net##.e3lan
+hentai-sharing.net###sidebar
 xhamster.com##.cams-overlay
 xhamster.com##.wio-aplayer
 xhamster.com##.wio-acams-widget
