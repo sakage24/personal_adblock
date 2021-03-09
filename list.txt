@@ -4,6 +4,7 @@
 
 ! ===== 拒否 ===== !
 ||appboy.com^
+||adobe.com^
 ||blockadblock*.js^
 ||remodal*.js^
 ||rxd.js^
