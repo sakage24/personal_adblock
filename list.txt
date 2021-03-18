@@ -73,6 +73,7 @@ nicovideo.jp##.BottomContainer
 ||aaacompany.net^
 ||mttag.com^
 ||gsspat.jp^
+||tokyomotion.net##.junk-ad-body
 
 ! google系
 ||doubleclick.net^
