@@ -65,6 +65,7 @@ yahoo.co.jp###TBP
 ||notification.nicovideo.jp^
 nicovideo.jp##.MarqueeContainer
 nicovideo.jp##.BottomContainer
+nicovideo.jp##.NicoSpotAdContainer
 
 ! Thunderbirdのリンク踏むと中継されるドメイン
 ||mandrillapp.com^
