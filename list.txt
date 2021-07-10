@@ -42,6 +42,7 @@ xhamster.com##.wio-aspa
 xhamster.com##.wio-aspb
 yahoo.co.jp###TBP
 qiita.com##.wb-CampaignLink
+2ch-c.net###riAfPtsWrap
 
 ! 楽天系アプリ内広告
 ||scorecardresearch.com^
