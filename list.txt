@@ -31,6 +31,12 @@
 ||gostoneshards.ru^
 ||adnxs.com^
 ||karte.io^
+||appcenter.ms^
+||appsflyer.com^
+||ibyteimg.com^
+||byteoversea.com^
+||ipstatp.com^
+||ibytedtos.com^
 
 ! 一部id, classのみ非表示
 hentai-sharing.net##.e3lan
