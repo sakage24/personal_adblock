@@ -37,6 +37,11 @@
 ||byteoversea.com^
 ||ipstatp.com^
 ||ibytedtos.com^
+||addthis.com^
+||trustarc.com^
+||ensighten.com^
+||moatads.com^
+||choozle.com^
 
 ! 一部id, classのみ非表示
 hentai-sharing.net##.e3lan
