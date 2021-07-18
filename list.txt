@@ -42,6 +42,7 @@
 ||ensighten.com^
 ||moatads.com^
 ||choozle.com^
+||media.fc2.com^
 
 ! 一部id, classのみ非表示
 hentai-sharing.net##.e3lan
