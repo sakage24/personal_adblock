@@ -42,7 +42,6 @@
 ||ensighten.com^
 ||moatads.com^
 ||choozle.com^
-||media.fc2.com^
 
 ! 一部id, classのみ非表示
 hentai-sharing.net##.e3lan
@@ -89,6 +88,7 @@ nicovideo.jp##.NicoSpotAdContainer
 ||aaacompany.net^
 ||mttag.com^
 ||gsspat.jp^
+||tokyomotion.net^$domain=fc2.com
 tokyomotion.net##.junk-ad-body
 
 ! google系
