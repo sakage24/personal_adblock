@@ -73,6 +73,8 @@ wikipedia.org###siteNotice
 ||contentsfeed.com^
 ||beaconbank.jp^
 ||graph.instagram.com^
+||adjust.world^
+||adjust.net.in^
 
 ! ニコニコ
 ||ichiba.nicovideo.jp^
