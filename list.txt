@@ -92,6 +92,7 @@ nicovideo.jp##.NicoSpotAdContainer
 ||gsspat.jp^
 ||tokyomotion.net^$domain=fc2.com
 tokyomotion.net##.junk-ad-body
+tokyomotion.net##._ciw-widget
 
 ! google系
 ||doubleclick.net^
