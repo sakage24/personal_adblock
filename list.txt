@@ -101,6 +101,7 @@ tokyomotion.net##.junk-ad-body
 
 !! Youtube
 youtube.com##ytd-companion-slot-renderer
+youtube.com###player-ads
 
 ! Facebook
 ||graph.facebook.com^
