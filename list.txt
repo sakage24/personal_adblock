@@ -222,3 +222,4 @@ youtube.com##.ytd-action-companion-ad-renderer
 @@||rakuten-card.co.jp^
 @@||adcolony.com^
 @@||fril.jp^
+@@||rebates.jp^
