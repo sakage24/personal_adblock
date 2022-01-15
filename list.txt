@@ -88,9 +88,6 @@ nicovideo.jp##.MarqueeContainer
 nicovideo.jp##.BottomContainer
 nicovideo.jp##.NicoSpotAdContainer
 
-! Thunderbirdのリンク踏むと中継されるドメイン
-||mandrillapp.com^
-
 ! TOKYO MOTION
 ||aaacompany.net^
 ||mttag.com^
@@ -134,16 +131,14 @@ youtube.com##.ytd-action-companion-ad-renderer
 ||estrongs.com^
 ||taobao.com^
 ||abtest.alibaba.com^
-||applog.uc.cn^
+||uc.cn^
+||ucweb.com^
 
 ! ====== 例外的に許可 ===== !
 
 ! yahoo
 @@||mail.yahoo.co.jp^
 @@||yahooapis.jp^
-
-! コインマイニング
-@@||minergate.com^
 
 ! よく使うサイト
 @@||amazon.co.jp^
@@ -162,13 +157,8 @@ youtube.com##.ytd-action-companion-ad-renderer
 @@||scp-world.space^
 @@||rs-online.com^
 @@||gihyo.jp^
-@@||aliexpress.com^
-@@||taobao.com^
 
 ! 開発
-@@||10.8.8.*^
-@@||192.168.1.*^
-@@||opskiwi.work^
 @@||github.com^
 @@||atlassian.com^
 @@||bitbucket.org^
@@ -177,9 +167,7 @@ youtube.com##.ytd-action-companion-ad-renderer
 @@||conoha.jp^
 @@||protonvpn.com^
 @@||heroku.com^
-@@||photo-ac.com/assets/js^
 @@||emmet.io^
-@@||point.gmo.jp^
 @@||note.com^
 
 ! 動画サイト
@@ -187,7 +175,7 @@ youtube.com##.ytd-action-companion-ad-renderer
 @@||nicovideo.jp/v*/user/followees^
 
 ! Dropbox
-@@||dropbox*.com^
+@@||dropbox.com^
 
 ! BackBraze
 @@||backblaze.com^
@@ -209,15 +197,12 @@ youtube.com##.ytd-action-companion-ad-renderer
 ! ポイントサイト
 @@||infoq.jp^
 @@||a8.net^
-@@||cmnw.jp^
-@@||gaingame.point.gmo.jp^
 
 ! MineCraft
 @@||mojang.com^
 @@||minecraft.net^
 
 ! LINE
-@@||ch.freecoin.line.naver.jp^
 @@||ec.line.me^
 
 ! 楽天
