@@ -113,9 +113,6 @@ youtube.com##.ytd-action-companion-ad-renderer
 ||mqtt-mini.facebook.com^
 ||staticxx.facebook.com^
 
-! microsoft
-||graph.microsoft.com^
-
 ! LINE
 ||adjust.com^
 ||naver.jp^
