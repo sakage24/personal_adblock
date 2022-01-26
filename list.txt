@@ -60,6 +60,7 @@ yahoo.co.jp###TBP
 qiita.com##.wb-CampaignLink
 2ch-c.net###riAfPtsWrap
 wikipedia.org###siteNotice
+aliexpress.com###J_xiaomi_dialog
 
 ! 楽天系アプリ内広告
 ||scorecardresearch.com^
