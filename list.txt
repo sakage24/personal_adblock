@@ -108,6 +108,7 @@ youtube.com##ytd-companion-slot-renderer
 youtube.com##ytd-promoted-sparkles-web-renderer
 youtube.com###player-ads
 youtube.com##.ytd-action-companion-ad-renderer
+youtube.com###secondary
 
 ! Facebook
 ||graph.facebook.com^
