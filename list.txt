@@ -49,6 +49,7 @@
 ||slatic.net^
 ||smartadserver.com^
 ||adkernel.com^
+||browsiprod.com^
 
 ! 一部id, classのみ非表示
 hentai-sharing.net##.e3lan
