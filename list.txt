@@ -47,6 +47,7 @@
 ||pubmatic.com^
 ||pubmatic.co.jp^
 ||slatic.net^
+||smartadserver.com^
 
 ! 一部id, classのみ非表示
 hentai-sharing.net##.e3lan
