@@ -135,6 +135,8 @@ youtube.com##.ytd-action-companion-ad-renderer
 ||abtest.alibaba.com^
 ||uc.cn^
 ||ucweb.com^
+||qq.com^
+||gtimg.cn^
 
 ! ====== 例外的に許可 ===== !
 
