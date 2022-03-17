@@ -42,7 +42,7 @@
 ||ensighten.com^
 ||moatads.com^
 ||choozle.com^
-||media.fc2.com^
+||fc2.com^
 ||deqwas.net^
 ||pubmatic.com^
 ||pubmatic.co.jp^
@@ -51,6 +51,7 @@
 ||adkernel.com^
 ||browsiprod.com^
 ||datadoghq-browser-agent.com^
+||popinfo.com^
 
 ! 一部id, classのみ非表示
 hentai-sharing.net##.e3lan
@@ -97,7 +98,7 @@ nicovideo.jp##.NicoSpotAdContainer
 ||aaacompany.net^
 ||mttag.com^
 ||gsspat.jp^
-||tokyomotion.net^$domain=fc2.com
+||winner-ch.com^
 tokyomotion.net##.junk-ad-body
 tokyomotion.net##._ciw-widget
 
