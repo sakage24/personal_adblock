@@ -52,6 +52,7 @@
 ||browsiprod.com^
 ||datadoghq-browser-agent.com^
 ||popinfo.com^
+||ad.intl.xiaomi.com^
 
 ! 一部id, classのみ非表示
 hentai-sharing.net##.e3lan
@@ -134,6 +135,7 @@ youtube.com##.ytd-action-companion-ad-renderer
 ||estrongs.com^
 ||taobao.com^
 ||abtest.alibaba.com^
+||us-ummt.alibaba.com^
 ||uc.cn^
 ||ucweb.com^
 ||qq.com^
