@@ -53,6 +53,8 @@
 ||datadoghq-browser-agent.com^
 ||popinfo.com^
 ||ad.intl.xiaomi.com^
+||tracer.winudf.com^
+||tapi.pureapk.com^
 
 ! 一部id, classのみ非表示
 hentai-sharing.net##.e3lan
