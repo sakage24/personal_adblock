@@ -42,7 +42,6 @@
 ||ensighten.com^
 ||moatads.com^
 ||choozle.com^
-||fc2.com^
 ||deqwas.net^
 ||pubmatic.com^
 ||pubmatic.co.jp^
@@ -104,6 +103,7 @@ nicovideo.jp##.NicoSpotAdContainer
 ||winner-ch.com^
 tokyomotion.net##.junk-ad-body
 tokyomotion.net##._ciw-widget
+tokyomotion.net^$third-party$domain=fc2.com
 
 ! google系
 ||doubleclick.net^
