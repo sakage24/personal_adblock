@@ -88,6 +88,7 @@ aliexpress.com###J_xiaomi_dialog
 ||graph.instagram.com^
 ||adjust.world^
 ||adjust.net.in^
+||static.fc2.com^
 
 ! ニコニコ
 ||ichiba.nicovideo.jp^
@@ -102,9 +103,9 @@ nicovideo.jp##.NicoSpotAdContainer
 ||mttag.com^
 ||gsspat.jp^
 ||winner-ch.com^
+||tokyomotion.net^$domain=fc2.com$subdocument$script$third-party
 tokyomotion.net##.junk-ad-body
 tokyomotion.net##._ciw-widget
-tokyomotion.net^$third-party$domain=fc2.com
 
 ! google系
 ||doubleclick.net^
