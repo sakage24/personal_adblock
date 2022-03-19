@@ -142,6 +142,11 @@ youtube.com##.ytd-action-companion-ad-renderer
 ||ucweb.com^
 ||qq.com^
 ||gtimg.cn^
+||dtmall-tel.alicdn.com^
+||aeproductsourcesite.alicdn.com^
+||aliapp.org^
+||59.82.*
+||203.119.*
 
 ! ====== 例外的に許可 ===== !
 
