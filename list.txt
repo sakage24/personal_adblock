@@ -54,6 +54,7 @@
 ||ad.intl.xiaomi.com^
 ||tracer.winudf.com^
 ||tapi.pureapk.com^
+||ads-twitter.com^
 
 ! 一部id, classのみ非表示
 hentai-sharing.net##.e3lan
