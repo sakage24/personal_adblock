@@ -60,6 +60,8 @@
 ||ismovernm.xyz^
 ||blockadsnot.com^
 ||ebis.ne.jp^
+||probe.twitter.com^
+||twitter.com^$third-party
 
 ! 一部id, classのみ非表示
 hentai-sharing.net##.e3lan
@@ -162,7 +164,6 @@ youtube.com##.ytd-action-companion-ad-renderer
 
 ! よく使うサイト
 @@||amazon.co.jp^
-@@||twitter.com^
 @@||play.dlsite.com^
 @@||dlsite.com^
 @@||ci-en.net^
