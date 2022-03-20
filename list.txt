@@ -55,6 +55,10 @@
 ||tracer.winudf.com^
 ||tapi.pureapk.com^
 ||ads-twitter.com^
+||mexa.sh^$popup$third-party
+||adfpoint.com^
+||ismovernm.xyz^
+||blockadsnot.com^
 
 ! 一部id, classのみ非表示
 hentai-sharing.net##.e3lan
