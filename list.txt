@@ -59,6 +59,7 @@
 ||adfpoint.com^
 ||ismovernm.xyz^
 ||blockadsnot.com^
+||ebis.ne.jp^
 
 ! 一部id, classのみ非表示
 hentai-sharing.net##.e3lan
