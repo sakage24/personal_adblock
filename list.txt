@@ -63,7 +63,7 @@
 
 ! Twitter
 ||probe.twitter.com^
-||twitter.com^$subdocument
+||twitter.com^$subdocument$script$jsinject
 @@||api.twitter.com^$app=com.klinker.android.twitter_l
 
 ! 一部id, classのみ非表示
