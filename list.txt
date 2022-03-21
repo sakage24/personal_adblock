@@ -212,9 +212,6 @@ youtube.com##.ytd-action-companion-ad-renderer
 ! FX
 @@||xmtrading.com^
 
-! Google
-@@||google.com^
-
 ! ポイントサイト
 @@||infoq.jp^
 @@||a8.net^
