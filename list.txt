@@ -60,8 +60,11 @@
 ||ismovernm.xyz^
 ||blockadsnot.com^
 ||ebis.ne.jp^
+
+! Twitter
 ||probe.twitter.com^
 ||twitter.com^$subdocument
+@@||api.twitter.com^$app=com.klinker.android.twitter_l
 
 ! 一部id, classのみ非表示
 hentai-sharing.net##.e3lan
