@@ -61,7 +61,7 @@
 ||blockadsnot.com^
 ||ebis.ne.jp^
 ||probe.twitter.com^
-||twitter.com^$jsinject$subdocument
+||twitter.com^$subdocument
 
 ! 一部id, classのみ非表示
 hentai-sharing.net##.e3lan
@@ -98,10 +98,11 @@ aliexpress.com###J_xiaomi_dialog
 ||static.fc2.com^
 
 ! ニコニコ
+||nicovideo.jp^$jsinject
 ||ichiba.nicovideo.jp^
 ||nicoad.nicovideo.jp^
 ||notification.nicovideo.jp^
-nicovideo.jp##.MarqueeContainer
+nicovideo.jp##.MainContainer-marquee
 nicovideo.jp##.BottomContainer
 nicovideo.jp##.NicoSpotAdContainer
 
