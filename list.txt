@@ -61,7 +61,7 @@
 ||blockadsnot.com^
 ||ebis.ne.jp^
 ||probe.twitter.com^
-||twitter.com^$third-party
+||twitter.com^$jsinject
 
 ! 一部id, classのみ非表示
 hentai-sharing.net##.e3lan
