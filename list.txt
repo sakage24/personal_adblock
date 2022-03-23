@@ -136,7 +136,6 @@ youtube.com##.ytd-action-companion-ad-renderer
 
 ! LINE
 ||adjust.com^
-||naver.jp^
 ||appdriver.jp^
 
 ! China系
