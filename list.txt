@@ -137,6 +137,10 @@ youtube.com##.ytd-action-companion-ad-renderer
 ! LINE
 ||adjust.com^
 ||appdriver.jp^
+||line-apps.com^$third-party$jsinject
+||naver.jp^$third-party$jsinject$script
+||line.me^$third-party$jsinject
+@@||points.line.me^
 
 ! China系
 ||dbankcloud.cn^
