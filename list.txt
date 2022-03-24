@@ -101,7 +101,7 @@ aliexpress.com###J_xiaomi_dialog
 ||static.fc2.com^
 
 ! ニコニコ
-||nicovideo.jp^$jsinject
+||nicovideo.jp^$jsinject$third-party
 ||ichiba.nicovideo.jp^
 ||nicoad.nicovideo.jp^
 ||notification.nicovideo.jp^
@@ -202,22 +202,12 @@ youtube.com##.ytd-action-companion-ad-renderer
 @@||public.api.nicovideo.jp^
 @@||nicovideo.jp/v*/user/followees^
 
-! Dropbox
-@@||dropbox.com^
-
-! BackBraze
-@@||backblaze.com^
-
 ! 金融系
 @@||jcb.co.jp^
 @@||okidokiland.com^
 @@||paypal.com^
 @@||freewallet.org^
-@@||researchnow.com^
 @@||safecharge.com^
-
-! FX
-@@||xmtrading.com^
 
 ! ポイントサイト
 @@||infoq.jp^
@@ -233,6 +223,5 @@ youtube.com##.ytd-action-companion-ad-renderer
 ! 楽天
 @@||rakuten.co.jp^
 @@||rakuten-card.co.jp^
-@@||adcolony.com^
 @@||fril.jp^
 @@||rebates.jp^
