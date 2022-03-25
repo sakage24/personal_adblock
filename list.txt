@@ -63,11 +63,14 @@ xhamster.com##.wio-aplayer
 xhamster.com##.wio-aspa
 xhamster.com##.wio-aspb
 yahoo.co.jp###TBP
+youtube.com###header
 youtube.com###masthead-ad
 youtube.com###player-ads
+youtube.com###voice-search-button
 youtube.com##.ytd-action-companion-ad-renderer
 youtube.com##ytd-companion-slot-renderer
 youtube.com##ytd-promoted-sparkles-web-renderer
+youtube.com##ytd-rich-section-renderer
 ||203.119.*^
 ||59.82.*^
 ||aaacompany.net^
