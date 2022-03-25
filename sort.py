@@ -10,5 +10,5 @@ with open(pt, 'r') as fp:
 rows = list(set(rows))
 rows.sort()
 
-with open("result.txt", "w", encoding="utf-8") as fp:
+with open("list.txt", "w", encoding="utf-8") as fp:
     fp.writelines(rows)
