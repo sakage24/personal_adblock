@@ -182,6 +182,7 @@ youtube.com##ytd-rich-section-renderer
 ||uc.cn^
 ||ucweb.com^
 ||us-ummt.alibaba.com^
+||val.jp^
 ||winner-ch.com^
 ||witalfieldt.com^
 ||xfreeservice.com^
