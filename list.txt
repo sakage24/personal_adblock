@@ -13,6 +13,7 @@
 @@||cyberduck.io^
 @@||dlsite.com^
 @@||ec.line.me^
+@@||ekispert-mobile.val.jp^
 @@||emmet.io^
 @@||freewallet.org^
 @@||fril.jp^
