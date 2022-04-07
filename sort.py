@@ -1,8 +1,9 @@
 #! /home/kiwi/.pyenv/shims/python3
 
-pt = "list.txt"
+pt: str = "list.txt"
+enc: str = "utf-8"
 rows: list = []
-with open(pt, 'r') as fp:
+with open(pt, 'r', encoding=enc) as fp:
     for i in fp:
         if not i == "\n":
             rows.append(i)
@@ -10,5 +11,5 @@ with open(pt, 'r') as fp:
 rows = list(set(rows))
 rows.sort()
 
-with open("list.txt", "w", encoding="utf-8") as fp:
+with open(pt, "w", encoding=enc) as fp:
     fp.writelines(rows)
