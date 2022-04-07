@@ -138,6 +138,7 @@ youtube.com##ytd-rich-section-renderer
 ||license.*.js^
 ||line-apps.com^$third-party$jsinject
 ||line.me^$third-party$jsinject
+||liveperson.net^
 ||m0mentum.net^
 ||marketingcloudapis.com^
 ||mexa.sh^$popup$third-party
