@@ -141,6 +141,7 @@ youtube.com##ytd-rich-section-renderer
 ||liveperson.net^
 ||m0mentum.net^
 ||marketingcloudapis.com^
+||measurelib.com^
 ||mexa.sh^$popup$third-party
 ||microad.jp^
 ||moatads.com^
