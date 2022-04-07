@@ -8,6 +8,7 @@ with open(pt, 'r', encoding=enc) as fp:
         if not i == "\n":
             rows.append(i)
 
+# 重複の除外
 rows = list(set(rows))
 rows.sort()
 
