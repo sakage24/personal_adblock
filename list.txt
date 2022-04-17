@@ -116,6 +116,7 @@ youtube.com##ytd-rich-section-renderer
 ||dtmall-tel.alicdn.com^
 ||duapps.com^
 ||ebis.ne.jp^
+||edge-mqtt.facebook.com^
 ||ensighten.com^
 ||estrongs.com^
 ||exdynsrv.com^
