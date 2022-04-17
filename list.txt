@@ -120,6 +120,7 @@ youtube.com##ytd-rich-section-renderer
 ||ensighten.com^
 ||estrongs.com^
 ||exdynsrv.com^
+||gateway.facebook.com^
 ||google-analytics.com^
 ||googlesyndication.com^
 ||googletagmanager.com^
