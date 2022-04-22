@@ -86,6 +86,7 @@ youtube.com##ytd-rich-section-renderer
 ||adnxs.com^
 ||adobe.com^
 ||ados.js^
+||ads-pixiv.net^
 ||ads-twitter.com^
 ||advert*.js^
 ||aeproductsourcesite.alicdn.com^
