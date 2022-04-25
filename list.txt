@@ -85,6 +85,7 @@ youtube.com##ytd-rich-section-renderer
 ||adkernel.com^
 ||adnxs.com^
 ||adobe.com^
+||adobedtm.com^
 ||ados.js^
 ||ads-pixiv.net^
 ||ads-twitter.com^
@@ -182,6 +183,7 @@ youtube.com##ytd-rich-section-renderer
 ||staticxx.facebook.com^
 ||taobao.com^
 ||tapi.pureapk.com^
+||tiqcdn.com^
 ||tracer.winudf.com^
 ||treasuredata.com^
 ||trustarc.com^
