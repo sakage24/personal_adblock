@@ -169,6 +169,7 @@ youtube.com##ytd-rich-section-renderer
 ||qq.com^
 ||remodal*.js^
 ||rhfgjld.com^
+||rmb-ss.jp^
 ||rpaas.net^
 ||rtoaster.jp^
 ||rxd.js^
