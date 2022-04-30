@@ -97,6 +97,7 @@ youtube.com##ytd-rich-section-renderer
 ||appcenter.ms^
 ||appdriver.jp^
 ||appflyer.com^
+||appirits.com^
 ||appsflyer.com^
 ||baidu.com^
 ||beaconbank.jp^
