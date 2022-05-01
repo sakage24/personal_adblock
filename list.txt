@@ -94,6 +94,7 @@ youtube.com##ytd-rich-section-renderer
 ||aeproductsourcesite.alicdn.com^
 ||aliapp.org^
 ||amazon-adsystem.com^
+||app-measurement.com^
 ||appboy.com^
 ||appcenter.ms^
 ||appdriver.jp^
