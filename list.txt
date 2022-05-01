@@ -65,6 +65,7 @@ xhamster.com##.wio-aspa
 xhamster.com##.wio-aspb
 yahoo.co.jp###TBP
 youtube.com###masthead-ad
+youtube.com###masthead-lastmod
 youtube.com###player-ads
 youtube.com###voice-search-button
 youtube.com##.ytd-action-companion-ad-renderer
