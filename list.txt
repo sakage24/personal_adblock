@@ -160,6 +160,7 @@ youtube.com##ytd-rich-section-renderer
 ||nicoad.nicovideo.jp^
 ||nicovideo.jp^$jsinject$third-party
 ||notification.nicovideo.jp^
+||onezapp.com^
 ||outbrain.com^
 ||pop.js^
 ||popin.cc^
