@@ -76,6 +76,7 @@ youtube.com##ytd-rich-section-renderer
 ||59.82.*^
 ||aaacompany.net^
 ||abtest.alibaba.com^
+||ad.games.dmm.com^
 ||ad.intl.xiaomi.com^
 ||addthis.com^
 ||adfpoint.com^
