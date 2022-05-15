@@ -6,7 +6,6 @@
 @@||amazon.co.jp^
 @@||api.twitter.com^$app=com.klinker.android.twitter_l
 @@||atlassian.com^
-@@||bilibili.com^
 @@||bitbucket.org^
 @@||ci-en.net^
 @@||conoha.jp^
@@ -104,6 +103,7 @@ youtube.com##ytd-rich-section-renderer
 ||appsflyer.com^
 ||baidu.com^
 ||beaconbank.jp^
+||biligame.com^
 ||bitests.pro^
 ||blockadblock*.js^
 ||blockadsnot.com^
@@ -112,9 +112,11 @@ youtube.com##ytd-rich-section-renderer
 ||ceyhan.pythonanywhere.com^
 ||choozle.com^
 ||contentsfeed.com^
+||crashlytics.com^
 ||cxpublic.com^
 ||d2-apps.net^
 ||datadoghq-browser-agent.com^
+||dataflow.biliapi.com^
 ||dbankcloud.asia^
 ||dbankcloud.cn^
 ||dbankcloud.com^
@@ -134,6 +136,7 @@ youtube.com##ytd-rich-section-renderer
 ||gostoneshards.ru^
 ||graph.facebook.com^
 ||graph.instagram.com^
+||grpc.biliapi.net^
 ||gsspat.jp^
 ||gtimg.cn^
 ||ibytedtos.com^
