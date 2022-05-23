@@ -149,7 +149,7 @@ youtube.com##ytd-rich-section-renderer
 ||marketingcloudapis.com^
 ||measurelib.com^
 ||mexa.sh^$popup$third-party
-||microad.jp^
+||microad.*^
 ||moatads.com^
 ||mobadme.jp^
 ||mqtt-mini.facebook.com^
@@ -198,3 +198,4 @@ youtube.com##ytd-rich-section-renderer
 ||winner-ch.com^
 ||witalfieldt.com^
 ||xfreeservice.com^
+||realsrv.com^
