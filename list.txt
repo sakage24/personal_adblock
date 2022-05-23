@@ -6,7 +6,6 @@
 @@||amazon.co.jp^
 @@||api.twitter.com^$app=com.klinker.android.twitter_l
 @@||atlassian.com^
-@@||bilibili.com^
 @@||bitbucket.org^
 @@||ci-en.net^
 @@||conoha.jp^
@@ -65,6 +64,7 @@ xhamster.com##.wio-aspa
 xhamster.com##.wio-aspb
 yahoo.co.jp###TBP
 youtube.com###masthead-ad
+youtube.com###masthead-lastmod
 youtube.com###player-ads
 youtube.com###voice-search-button
 youtube.com##.ytd-action-companion-ad-renderer
@@ -75,6 +75,7 @@ youtube.com##ytd-rich-section-renderer
 ||59.82.*^
 ||aaacompany.net^
 ||abtest.alibaba.com^
+||ad.games.dmm.com^
 ||ad.intl.xiaomi.com^
 ||addthis.com^
 ||adfpoint.com^
@@ -93,6 +94,7 @@ youtube.com##ytd-rich-section-renderer
 ||aeproductsourcesite.alicdn.com^
 ||aliapp.org^
 ||amazon-adsystem.com^
+||app-measurement.com^
 ||appboy.com^
 ||appcenter.ms^
 ||appdriver.jp^
@@ -101,6 +103,7 @@ youtube.com##ytd-rich-section-renderer
 ||appsflyer.com^
 ||baidu.com^
 ||beaconbank.jp^
+||biligame.com^
 ||bitests.pro^
 ||blockadblock*.js^
 ||blockadsnot.com^
@@ -109,9 +112,11 @@ youtube.com##ytd-rich-section-renderer
 ||ceyhan.pythonanywhere.com^
 ||choozle.com^
 ||contentsfeed.com^
+||crashlytics.com^
 ||cxpublic.com^
 ||d2-apps.net^
 ||datadoghq-browser-agent.com^
+||dataflow.biliapi.com^
 ||dbankcloud.asia^
 ||dbankcloud.cn^
 ||dbankcloud.com^
@@ -131,6 +136,7 @@ youtube.com##ytd-rich-section-renderer
 ||gostoneshards.ru^
 ||graph.facebook.com^
 ||graph.instagram.com^
+||grpc.biliapi.net^
 ||gsspat.jp^
 ||gtimg.cn^
 ||ibytedtos.com^
@@ -158,6 +164,7 @@ youtube.com##ytd-rich-section-renderer
 ||nicoad.nicovideo.jp^
 ||nicovideo.jp^$jsinject$third-party
 ||notification.nicovideo.jp^
+||onezapp.com^
 ||outbrain.com^
 ||pop.js^
 ||popin.cc^
@@ -168,12 +175,14 @@ youtube.com##ytd-rich-section-renderer
 ||pubmatic.co.jp^
 ||pubmatic.com^
 ||qq.com^
+||realsrv.com^
 ||remodal*.js^
 ||rhfgjld.com^
 ||rmb-ss.jp^
 ||rpaas.net^
 ||rtoaster.jp^
 ||rxd.js^
+||s.w.org^
 ||scorecardresearch.com^
 ||script.2823.js^
 ||script.3824.js^
@@ -183,6 +192,7 @@ youtube.com##ytd-rich-section-renderer
 ||smartadserver.com^
 ||static.fc2.com^
 ||staticxx.facebook.com^
+||systems.ws^
 ||taobao.com^
 ||tapi.pureapk.com^
 ||tiqcdn.com^
@@ -198,4 +208,3 @@ youtube.com##ytd-rich-section-renderer
 ||winner-ch.com^
 ||witalfieldt.com^
 ||xfreeservice.com^
-||realsrv.com^
