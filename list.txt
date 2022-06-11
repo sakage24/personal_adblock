@@ -190,7 +190,6 @@ youtube.com##ytd-rich-section-renderer
 ||share.js^
 ||slatic.net^
 ||smartadserver.com^
-||static.fc2.com^
 ||staticxx.facebook.com^
 ||systems.ws^
 ||taobao.com^
@@ -208,3 +207,4 @@ youtube.com##ytd-rich-section-renderer
 ||winner-ch.com^
 ||witalfieldt.com^
 ||xfreeservice.com^
+###ad_banner*
