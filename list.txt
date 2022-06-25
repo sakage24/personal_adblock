@@ -1,6 +1,7 @@
 ! AdGuard記法については、下記のリンクを参照
 ! https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters
 !+ NOT_PLATFORM()
+###ad_banner*
 2ch-c.net###riAfPtsWrap
 @@||a8.net^
 @@||amazon.co.jp^
@@ -164,7 +165,6 @@ youtube.com##ytd-rich-section-renderer
 ||nicoad.nicovideo.jp^
 ||nicovideo.jp^$jsinject$third-party
 ||notification.nicovideo.jp^
-||onezapp.com^
 ||outbrain.com^
 ||pop.js^
 ||popin.cc^
@@ -174,7 +174,6 @@ youtube.com##ytd-rich-section-renderer
 ||pu.lc.js^
 ||pubmatic.co.jp^
 ||pubmatic.com^
-||qq.com^
 ||realsrv.com^
 ||remodal*.js^
 ||rhfgjld.com^
@@ -193,7 +192,6 @@ youtube.com##ytd-rich-section-renderer
 ||staticxx.facebook.com^
 ||systems.ws^
 ||taobao.com^
-||tapi.pureapk.com^
 ||tiqcdn.com^
 ||tracer.winudf.com^
 ||treasuredata.com^
@@ -207,4 +205,3 @@ youtube.com##ytd-rich-section-renderer
 ||winner-ch.com^
 ||witalfieldt.com^
 ||xfreeservice.com^
-###ad_banner*
