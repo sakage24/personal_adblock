@@ -153,7 +153,6 @@ youtube.com##ytd-rich-section-renderer
 ||line.me^$third-party$jsinject
 ||liveperson.net^
 ||m0mentum.net^
-||marketingcloudapis.com^
 ||measurelib.com^
 ||mexa.sh^$popup$third-party
 ||microad.*^
