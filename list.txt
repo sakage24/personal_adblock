@@ -96,6 +96,7 @@ youtube.com##ytd-rich-section-renderer
 ||aeproductsourcesite.alicdn.com^
 ||aliapp.org^
 ||amazon-adsystem.com^
+||anythinktech.com^
 ||app-measurement.com^
 ||appboy.com^
 ||appcenter.ms^
@@ -112,6 +113,7 @@ youtube.com##ytd-rich-section-renderer
 ||blockadsnot.com^
 ||browsiprod.com^
 ||ceyhan.pythonanywhere.com^
+||chinaz.com^
 ||choozle.com^
 ||contentsfeed.com^
 ||crashlytics.com^
@@ -174,6 +176,7 @@ youtube.com##ytd-rich-section-renderer
 ||pu.lc.js^
 ||pubmatic.co.jp^
 ||pubmatic.com^
+||rayjump.com^
 ||realsrv.com^
 ||remodal*.js^
 ||rhfgjld.com^
