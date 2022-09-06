@@ -85,6 +85,7 @@ youtube.com##ytd-rich-section-renderer
 ||adjust.net.in^
 ||adjust.world^
 ||adkernel.com^
+||adlogists.com^
 ||adnxs.com^
 ||adobe.com^
 ||adobedtm.com^
@@ -106,6 +107,7 @@ youtube.com##ytd-rich-section-renderer
 ||beaconbank.jp^
 ||biligame.com^
 ||bitests.pro^
+||blisscleopatra.com^
 ||blockadblock*.js^
 ||blockadsnot.com^
 ||browsiprod.com^
@@ -198,6 +200,7 @@ youtube.com##ytd-rich-section-renderer
 ||u.js^
 ||uc.cn^
 ||ucweb.com^
+||updates-center.com^
 ||us-ummt.alibaba.com^
 ||val.jp^
 ||winner-ch.com^
