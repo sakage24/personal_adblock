@@ -112,6 +112,7 @@ youtube.com##ytd-rich-section-renderer
 ||blockadblock*.js^
 ||blockadsnot.com^
 ||browsiprod.com^
+||cbr.ru^
 ||ceyhan.pythonanywhere.com^
 ||chinaz.com^
 ||choozle.com^
