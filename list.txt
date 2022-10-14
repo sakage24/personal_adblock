@@ -73,6 +73,7 @@ youtube.com##ytd-companion-slot-renderer
 youtube.com##ytd-promoted-sparkles-web-renderer
 youtube.com##ytd-rich-section-renderer
 ||203.119.*^
+||3g.qq.com^
 ||59.82.*^
 ||aaacompany.net^
 ||abtest.alibaba.com^
