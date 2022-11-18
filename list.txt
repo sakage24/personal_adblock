@@ -140,6 +140,7 @@ youtube.com##ytd-rich-section-renderer
 ||googlesyndication.com^
 ||googletagmanager.com^
 ||gostoneshards.ru^
+||got-to-be.net^
 ||graph.facebook.com^
 ||graph.instagram.com^
 ||grpc.biliapi.net^
