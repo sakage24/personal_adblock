@@ -54,6 +54,7 @@ hentai-sharing.net##.e3lan
 nicovideo.jp##.BottomContainer
 nicovideo.jp##.MainContainer-marquee
 nicovideo.jp##.NicoSpotAdContainer
+nicovideo.jp##.NicoadVideosContainer
 qiita.com##.wb-CampaignLink
 tokyomotion.net##._ciw-widget
 tokyomotion.net##.junk-ad-body
