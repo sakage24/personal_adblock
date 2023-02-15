@@ -55,6 +55,7 @@ kuji.rakuten.co.jp###lot_page_header
 nicovideo.jp##.BottomContainer
 nicovideo.jp##.MainContainer-marquee
 nicovideo.jp##.NicoSpotAdContainer
+nicovideo.jp##.NicoadVideosContainer
 qiita.com##.wb-CampaignLink
 tokyomotion.net##._ciw-widget
 tokyomotion.net##.junk-ad-body
