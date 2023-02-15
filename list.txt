@@ -51,6 +51,7 @@
 aliexpress.com###J_xiaomi_dialog
 hentai-sharing.net###sidebar
 hentai-sharing.net##.e3lan
+kuji.rakuten.co.jp###lot_page_header
 nicovideo.jp##.BottomContainer
 nicovideo.jp##.MainContainer-marquee
 nicovideo.jp##.NicoSpotAdContainer
