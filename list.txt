@@ -119,6 +119,7 @@ youtube.com##ytd-rich-section-renderer
 ||ceyhan.pythonanywhere.com^
 ||chinaz.com^
 ||choozle.com^
+||circles.asia^
 ||contentsfeed.com^
 ||crashlytics.com^
 ||cxpublic.com^
