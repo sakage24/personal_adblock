@@ -8,6 +8,7 @@
 @@||api.twitter.com^$app=com.klinker.android.twitter_l
 @@||atlassian.com^
 @@||bitbucket.org^
+@@||chat.openai.com^
 @@||ci-en.net^
 @@||conoha.jp^
 @@||cyberduck.io^
@@ -26,6 +27,7 @@
 @@||iosys.co.jp^
 @@||jcb.co.jp^
 @@||mail.yahoo.co.jp^
+@@||microcms.io^
 @@||minecraft.net^
 @@||mojang.com^
 @@||mountainduck.io^
