@@ -7,6 +7,7 @@
 @@||amazon.co.jp^
 @@||atlassian.com^
 @@||bitbucket.org^
+@@||chat.openai.com^
 @@||ci-en.net^
 @@||conoha.jp^
 @@||cyberduck.io^
@@ -25,6 +26,7 @@
 @@||iosys.co.jp^
 @@||jcb.co.jp^
 @@||mail.yahoo.co.jp^
+@@||microcms.io^
 @@||minecraft.net^
 @@||mojang.com^
 @@||mountainduck.io^
@@ -50,9 +52,11 @@
 aliexpress.com###J_xiaomi_dialog
 hentai-sharing.net###sidebar
 hentai-sharing.net##.e3lan
+kuji.rakuten.co.jp###lot_page_header
 nicovideo.jp##.BottomContainer
 nicovideo.jp##.MainContainer-marquee
 nicovideo.jp##.NicoSpotAdContainer
+nicovideo.jp##.NicoadVideosContainer
 qiita.com##.wb-CampaignLink
 tokyomotion.net##._ciw-widget
 tokyomotion.net##.junk-ad-body
@@ -116,6 +120,7 @@ youtube.com##ytd-rich-section-renderer
 ||ceyhan.pythonanywhere.com^
 ||chinaz.com^
 ||choozle.com^
+||circles.asia^
 ||contentsfeed.com^
 ||crashlytics.com^
 ||cxpublic.com^
