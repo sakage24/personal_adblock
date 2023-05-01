@@ -5,7 +5,6 @@
 2ch-c.net###riAfPtsWrap
 @@||a8.net^
 @@||amazon.co.jp^
-@@||api.twitter.com^$app=com.klinker.android.twitter_l
 @@||atlassian.com^
 @@||bitbucket.org^
 @@||ci-en.net^
@@ -202,7 +201,7 @@ youtube.com##ytd-rich-section-renderer
 ||tracer.winudf.com^
 ||treasuredata.com^
 ||trustarc.com^
-||twitter.com^$subdocument$script$jsinject
+||twitter.com^
 ||u.js^
 ||uc.cn^
 ||ucweb.com^
