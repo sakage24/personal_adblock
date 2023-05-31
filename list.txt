@@ -11,10 +11,12 @@
 @@||ci-en.net^
 @@||conoha.jp^
 @@||cyberduck.io^
+@@||digikey.com^
 @@||dlsite.com^
 @@||ec.line.me^
 @@||ekispert-mobile.val.jp^
 @@||emmet.io^
+@@||escapefromtarkov.com^
 @@||freewallet.org^
 @@||fril.jp^
 @@||gihyo.jp^
@@ -46,6 +48,7 @@
 @@||safecharge.com^
 @@||scp-world.space^
 @@||stardock.com^
+@@||switch-science.com^
 @@||teratail.com^
 @@||unext.jp^
 @@||yahooapis.jp^
