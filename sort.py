@@ -1,5 +1,3 @@
-#! /home/kiwi/.pyenv/shims/python3
-
 pt: str = "list.txt"
 enc: str = "utf-8"
 rows: list = []
