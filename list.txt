@@ -206,7 +206,6 @@ youtube.com##ytd-rich-section-renderer
 ||tracer.winudf.com^
 ||treasuredata.com^
 ||trustarc.com^
-||twitter.com^
 ||u.js^
 ||uc.cn^
 ||ucweb.com^
