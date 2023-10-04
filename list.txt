@@ -39,6 +39,7 @@
 @@||play.dlsite.com^
 @@||points.line.me^
 @@||protonvpn.com^
+@@||pub-hub.com^
 @@||public.api.nicovideo.jp^
 @@||qiita.com^
 @@||rakuten-card.co.jp^
