@@ -139,7 +139,6 @@ garumax.com##.floating-banner2
 ||dtmall-tel.alicdn.com^
 ||duapps.com^
 ||ebis.ne.jp^
-||edge-mqtt.facebook.com^
 ||ensighten.com^
 ||estrongs.com^
 ||exdynsrv.com^
@@ -172,7 +171,6 @@ garumax.com##.floating-banner2
 ||microad.*^
 ||moatads.com^
 ||mobadme.jp^
-||mqtt-mini.facebook.com^
 ||mttag.com^
 ||naver.jp^$third-party$jsinject$script
 ||nicoad.nicovideo.jp^
