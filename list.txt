@@ -54,6 +54,7 @@
 @@||unext.jp^
 @@||yahooapis.jp^
 aliexpress.com###J_xiaomi_dialog
+garumax.com##.floating-banner2
 hentai-sharing.net##.e3lan
 kuji.rakuten.co.jp###lot_page_header
 nicovideo.jp##.BottomContainer
@@ -78,7 +79,6 @@ youtube.com##.ytd-action-companion-ad-renderer
 youtube.com##ytd-companion-slot-renderer
 youtube.com##ytd-promoted-sparkles-web-renderer
 youtube.com##ytd-rich-section-renderer
-garumax.com##.floating-banner2
 ||203.119.*^
 ||3g.qq.com^
 ||59.82.*^
