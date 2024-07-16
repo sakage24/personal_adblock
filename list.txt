@@ -46,6 +46,7 @@
 @@||rakuten-card.co.jp^
 @@||rakuten.co.jp^
 @@||rebates.jp^
+@@||rewards.bing.com^
 @@||rs-online.com^
 @@||safecharge.com^
 @@||scp-world.space^
