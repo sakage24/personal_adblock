@@ -58,6 +58,7 @@
 aliexpress.com###J_xiaomi_dialog
 garumax.com##.floating-banner2
 hentai-sharing.net##.e3lan
+hentai-sharing.net###ads300_250-widget-2
 kuji.rakuten.co.jp###lot_page_header
 moppy.jp###modalTop_body
 moppy.jp###modalTop_floating
