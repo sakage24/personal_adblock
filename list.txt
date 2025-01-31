@@ -57,8 +57,8 @@
 @@||yahooapis.jp^
 aliexpress.com###J_xiaomi_dialog
 garumax.com##.floating-banner2
-hentai-sharing.net##.e3lan
 hentai-sharing.net###ads300_250-widget-2
+hentai-sharing.net##.e3lan
 kuji.rakuten.co.jp###lot_page_header
 moppy.jp###modalTop_body
 moppy.jp###modalTop_floating
@@ -66,6 +66,7 @@ nicovideo.jp##.BottomContainer
 nicovideo.jp##.MainContainer-marquee
 nicovideo.jp##.NicoSpotAdContainer
 nicovideo.jp##.NicoadVideosContainer
+nicovideo.jp##.z_docked
 qiita.com##.wb-CampaignLink
 tokyomotion.net##._ciw-widget
 tokyomotion.net##.junk-ad-body
